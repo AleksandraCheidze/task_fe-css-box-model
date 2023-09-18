@@ -1,3 +1,24 @@
-p{
-    background-color: aliceblue;
-}
+
+p {
+    margin: 10px ;
+    border: 3px solid #d71313;
+    background-color: beige;
+    font-size: 24px;
+  }
+
+  span {
+    border: 2px solid #2730da;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  
+  
+
+
+
